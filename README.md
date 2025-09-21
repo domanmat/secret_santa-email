@@ -1,6 +1,6 @@
 # Secret Santa Email Sender
 
-A Python script for automatically sending Secret Santa gift assignment emails to participants.
+A Python script for automatically sending Secret Santa gift assignment emails to a (Christmas) party participants.
 
 ## Overview
 
